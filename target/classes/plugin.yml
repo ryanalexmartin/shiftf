@@ -1,0 +1,5 @@
+name: ShiftFPlugin
+main: ShiftFPlugin
+version: 1.0
+author: Ryan Alex Martin
+description: Runs a command when player hits Shift+F.  ryanalexmartin.com
